@@ -15,8 +15,8 @@ Armed with the hash algorithm located in the same file, and knowledge of the nec
 ## Found Solutions (No Spoilers)
 The solutions found by this code were **not** the intended solutions, but they do all work. The passwords listed below do not spoil any puzzle solutions, and will allow access to the hidden information on the web page.
 
-imagePassword: ejtyglm
-containmentPassword: pkatwpt
-interviewPassword: eilesex
-crossTestPassword: gkztksn
-classPassword: ghkqswo
+* imagePassword: ejtyglm
+* containmentPassword: pkatwpt
+* interviewPassword: eilesex
+* crossTestPassword: gkztksn
+* classPassword: ghkqswo
